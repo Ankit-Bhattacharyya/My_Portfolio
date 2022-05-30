@@ -1,0 +1,35 @@
+#socials {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#skills {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#skill {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgb(205, 238, 165);
+}
+
+#project {
+    height: 1px;
+    color: rgb(196, 124, 124);
+}
+
+#education {
+    background: rgb(199, 241, 227);
+}
+
+#project_section {
+    background: rgb(227, 236, 178);
+}
+
+#background_of_header_section {
+    background: rgb(244, 225, 212);
+}
